@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Kelvin
 
-<!--
-**keilack123/keilack123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Cybersecurity & Network Enthusiast
 
-Here are some ideas to get you started:
+🔒 Ethical Hacking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Networking
+
+💻 Full Stack Development
+
+🚀 Currently building ChitetezoPay and ChenjezoHub
+
+## 🛠 Skills
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Next.js
+- MySQL
+- Python
+- Git
+- react
+- computer networks
+- Ethical hacking and cyber threat management
