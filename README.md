@@ -1,14 +1,4 @@
-# Hi 👋 I'm Kelvin
-
-## 💻 Cybersecurity & Network Enthusiast
-
-🔒 Ethical Hacking
-
-🌐 Networking
-
-💻 Full Stack Development
-
-🚀 Currently building ChitetezoPay and ChenjezoHub
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kelvin+Lackson+%F0%9F%91%8B;Cybersecurity+%26+Network+Enthusiast;Full-Stack+Developer;Building+ChitetezoPay+and+ChenjezoHub;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ## 🛠️ Skills & Technologies
 
@@ -43,5 +33,5 @@
 ![IT Support](https://img.shields.io/badge/IT_Support-0078D4?style=for-the-badge&logo=windows&logoColor=white)
   [![Keilack's GitHub stats](https://github-stats-extended.vercel.app/api?username=keilack123)](https://github.com/stats-organization/github-stats-extended)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kelvin+Lackson+%F0%9F%91%8B;Cybersecurity+%26+Network+Enthusiast;Full-Stack+Developer;Building+ChitetezoPay+and+ChenjezoHub;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+ 
 
