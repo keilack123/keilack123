@@ -31,6 +31,9 @@
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cyber Threat Management](https://img.shields.io/badge/Cyber_Threat_Management-8B0000?style=for-the-badge&logo=shield&logoColor=white)
 ![IT Support](https://img.shields.io/badge/IT_Support-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=keilack123)](https://git.io/streak-stats)
+
   [![Keilack's GitHub stats](https://github-stats-extended.vercel.app/api?username=keilack123)](https://github.com/stats-organization/github-stats-extended)
 
  
