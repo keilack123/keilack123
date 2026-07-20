@@ -13,6 +13,10 @@
 ## 🛠 Skills
 
 - HTML
+- Java
+- C++ & C
+- Kotlin
+- Electon.js
 - CSS
 - JavaScript
 - PHP
@@ -20,6 +24,8 @@
 - MySQL
 - Python
 - Git
-- react
+- react.js
 - computer networks
 - Ethical hacking and cyber threat management
+- IT support
+  
